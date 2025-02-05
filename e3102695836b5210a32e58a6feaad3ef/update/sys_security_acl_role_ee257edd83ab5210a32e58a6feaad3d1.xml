@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-05 10:42:31</sys_created_on>
+        <sys_id>ee257edd83ab5210a32e58a6feaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_ipaddressinfo.u_ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPLookup" source="e3102695836b5210a32e58a6feaad3ef">e3102695836b5210a32e58a6feaad3ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">e3102695836b5210a32e58a6feaad3ef</sys_scope>
+        <sys_security_acl display_value="u_ipaddressinfo">e6257edd83ab5210a32e58a6feaad3ce</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ee257edd83ab5210a32e58a6feaad3d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-05 10:42:31</sys_updated_on>
+        <sys_user_role display_value="u_ipaddressinfo_user" name="u_ipaddressinfo_user">1625f29d83ab5210a32e58a6feaad3a3</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
